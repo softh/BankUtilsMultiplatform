@@ -1,4 +1,4 @@
-package com.softhapps.kmm.bank.country
+package com.softhapps.kmm.bank.utils.country
 
 /**
  * Describes all available countries info: name, dial phone code and IOS codes

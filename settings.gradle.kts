@@ -8,4 +8,4 @@ pluginManagement {
 
 rootProject.name = "BankUtilsMultiplatform"
 include(":androidApp")
-include(":library:country")
+include(":library:utils-country")
